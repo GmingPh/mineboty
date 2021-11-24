@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
+ "ip": "PhantomPHCraft.aternos.me:26379",
+ "port": "26379",
  "name": "Your_bot_name_here",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "token": "OTEyODA3NDIxMzIyMzQyNDcx.YZ1UKA.1813YZncgCp0dyhv6NcaIWG5IzA",
+ "channelid": "912810030267531304",
+ "loginmsg": "Hello"
 }
